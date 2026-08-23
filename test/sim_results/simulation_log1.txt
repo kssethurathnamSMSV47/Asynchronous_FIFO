@@ -1,0 +1,6 @@
+VCD info: dumpfile async_fifo.vcd opened for output.
+--------------------------------------------------
+Total written = 291, Total read = 291
+TEST PASSED: all 291 words verified, no data corruption
+--------------------------------------------------
+async_fifo_tb.v:138: $finish called at 6464000 (1ps)
