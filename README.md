@@ -2,7 +2,7 @@
 
 ## Architecture
 
-![Async FIFO Architecture](images/asynchronous fifo architecture.png)
+![Async FIFO Architecture](images/asynchronous_fifo_architecture.png)
 
 ## Features
 
