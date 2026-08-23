@@ -2,12 +2,13 @@
 
 ## Architecture
 
+![Async FIFO Architecture](images/asynchronous fifo architecture.png)
 
-## RTL Design
+## Features
 
-The FIFO uses:
-
-- Gray-coded pointers
-- Two-flop synchronizers
-- Independent read/write clocks
+- Independent read and write clocks
+- Gray-coded read/write pointers
+- 2-flop clock-domain synchronizers
 - Full and empty flag generation
+- Dual-port memory
+- Parameterized FIFO depth
