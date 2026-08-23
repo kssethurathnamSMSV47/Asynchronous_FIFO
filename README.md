@@ -2,7 +2,6 @@
 
 ## Architecture
 
-![Asynchronous FIFO Architecture](images/async_fifo_architecture.png)
 
 ## RTL Design
 
